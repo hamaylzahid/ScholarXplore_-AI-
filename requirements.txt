@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+requests
+beautifulsoup4
+lxml
+selenium
+pandas
+numpy
+python-dotenv
+httpx

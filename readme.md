@@ -2,12 +2,10 @@
 
 <br>
 <h1>ScholarXplore AI</h1>
-<br>
-
-<p>
+  <p>
 An intelligent scholarship discovery and analytics platform powered by FastAPI and Streamlit, designed to transform scattered opportunities into structured insights.
 </p>
-
+<hr><br>
 <br>
 
 <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python">
@@ -19,6 +17,28 @@ An intelligent scholarship discovery and analytics platform powered by FastAPI a
 <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
 
 </div>
+
+
+<div align="center">
+<h2> Streamlit Deployment</h2>
+
+<p>
+The project is deployed and accessible on Streamlit Cloud for live testing and demonstration.
+</p>
+
+<a href="https://kp7u4jwyvxdwmjq5fumt9j.streamlit.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Launch%20App-Streamlit-red?style=for-the-badge&logo=streamlit" />
+</a>
+
+<br><br>
+
+</div>
+
+Deployment steps:
+
+- Push repository to GitHub  
+- Connect repository to Streamlit Cloud  
+- Deploy with a single click
 
 <br><hr><br>
 
@@ -187,21 +207,7 @@ The backend is built using FastAPI to ensure:
 
 It acts as the core engine powering data processing and logic execution.
 
-<br><hr><br>
-
-<div align="center">
-<h2>Streamlit Deployment</h2>
-</div>
-
-The project is designed for seamless deployment using Streamlit Cloud.
-
-<img src="https://img.shields.io/badge/Deploy%20on-Streamlit-red?style=for-the-badge&logo=streamlit">
-
-Deployment steps:
-
-- Push repository to GitHub  
-- Connect repository to Streamlit Cloud  
-- Deploy with a single click  
+<br> 
 
 <br><hr><br>
 

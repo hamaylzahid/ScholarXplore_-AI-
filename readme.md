@@ -26,7 +26,7 @@ An intelligent scholarship discovery and analytics platform powered by FastAPI a
 The project is deployed and accessible on Streamlit Cloud for live testing and demonstration.
 </p>
 
-<a href="https://kp7u4jwyvxdwmjq5fumt9j.streamlit.app/" target="_blank">
+<a href="scholarxplore-ai.streamlit.app/" target="_blank">
   <img src="https://img.shields.io/badge/Launch%20App-Streamlit-red?style=for-the-badge&logo=streamlit" />
 </a>
 
